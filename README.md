@@ -1,6 +1,6 @@
 # Heatmaps: Changes in SV Composition and Dynamics over Age and in Synucleinopathies
 
-Welcome to the `heatmaps` repository, which hosts interactive heatmap HTML files associated with the proteomics and lipidomics paper titled "Changes in SV Composition and Dynamics over Age and in Synucleinopathies."
+Welcome to the `heatmaps` repository, which hosts interactive heatmap HTML files associated with the paper titled "Changes in SV Composition and Dynamics over Age and in Synucleinopathies."
 
 ## Instructions
 
